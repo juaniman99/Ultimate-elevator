@@ -1,0 +1,11 @@
+He combinado el ejercicio del ascensor con el PDF del Timer para poner en
+práctica ambos conceptos.
+
+La estructura del poryecto es la siguiente:
+	_
+	|_cabin.png
+	|_header.png
+	|src
+	  |_Ascensor.java (Main)
+	  |_Controlador.java
+	  |_Modelo.java
